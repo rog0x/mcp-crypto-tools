@@ -1,0 +1,19 @@
+{
+  "name": "@rog0x/mcp-crypto-tools",
+  "version": "1.0.0",
+  "description": "Cryptography and encoding tools for AI agents via MCP",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.12.1"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.3",
+    "@types/node": "^22.15.3"
+  },
+  "license": "MIT"
+}
