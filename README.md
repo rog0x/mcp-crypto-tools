@@ -1,4 +1,3 @@
-[![MCP Server](https://glama.ai/mcp/servers/rog0x/mcp-crypto-tools/badges/score.svg)](https://glama.ai/mcp/servers/rog0x/mcp-crypto-tools)
 
 # mcp-crypto-tools
 
