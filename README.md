@@ -1,3 +1,5 @@
+[![MCP Server](https://glama.ai/mcp/servers/rog0x/mcp-crypto-tools/badges/score.svg)](https://glama.ai/mcp/servers/rog0x/mcp-crypto-tools)
+
 # mcp-crypto-tools
 
 Cryptography and encoding tools for AI agents, served via the [Model Context Protocol (MCP)](https://modelcontextprotocol.io).
